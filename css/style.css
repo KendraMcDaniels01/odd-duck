@@ -1,0 +1,59 @@
+/* used chat gpt to help right CSS */
+
+/* Set a default font family and font size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Center the heading */
+h1 {
+  background-color: rgb(154, 207, 154);
+  color: white;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 3vw;
+}
+
+/* Style the image section */
+#image-section {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+
+/* Style the images */
+#image-section img {
+  background-color: rgb(154, 207, 154);
+  border: 2px solid rgb(154, 207, 154);
+  width: 25vw;
+  height: 25vw;
+  object-fit: scale-down;
+}
+
+/* Style the show results button */
+#show-results-btn {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#show-results-btn:hover {
+  background-color: #2980b9;
+}
+
+/* Style the results container */
+#results-container {
+  list-style: none;
+  margin-top: 20px;
+  text-align: center;
+}
+
+/* Style the list items within the results container */
+#results-container li {
+  margin-bottom: 10px;
+}
