@@ -25,7 +25,7 @@ h1 {
 /* Style the images */
 #image-section img {
   background-color: rgb(154, 207, 154);
-  border: 2px solid rgb(154, 207, 154);
+  border: 5px solid rgb(154, 207, 154);
   width: 25vw;
   height: 25vw;
   object-fit: scale-down;
