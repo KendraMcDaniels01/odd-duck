@@ -15,3 +15,8 @@ The marketing team is not only interested in the total number of clicks, but als
 ### Lighthouse Score Lab 12
 
 ![Alt text](<img/odd-duck/lab12 lighthouse.jpg>)
+
+### Lighthouse Score Lab 13
+
+![Alt text](<img/odd-duck/lab13 lighthouse.jpg>)
+

@@ -85,11 +85,13 @@ function displayChart(){
       datasets: [{
         label: '# of Views',
         data: arrayOfProductViews,
+        backgroundColor: 'rgba(75, 192, 192, 0.6)',
         borderWidth: 1
       },
       {
         label: '# of Votes',
         data: arrayOfProductVotes,
+        backgroundColor: 'rgba(153, 102, 255, 0.6)',
         borderWidth: 1
       }]
     },
